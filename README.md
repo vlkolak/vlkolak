@@ -20,3 +20,4 @@ Fix bug in feature X
 Add test cases
 Remove unused imports
 Remove unused imports
+Update dependencies
