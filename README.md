@@ -18,3 +18,4 @@ Fix bug in feature X
 Improve logging
 Fix bug in feature X
 Add test cases
+Remove unused imports
